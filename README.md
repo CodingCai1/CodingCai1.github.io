@@ -74,3 +74,4 @@
     </footer>
 </body>
 </html>
+![AI Photography](https://github.com/user-attachments/assets/76b28811-9f67-42ac-95eb-bfcb5bb2734b)
